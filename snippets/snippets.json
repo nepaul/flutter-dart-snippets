@@ -1,0 +1,37 @@
+{
+    "Stateless Widget": {
+        "prefix": "statelessW",
+        "body": [
+            "class ${1:name} extends StatelessWidget {",
+            "  const ${1:name}({super.key});\n",
+            "  @override",
+            "  Widget build(BuildContext context) {",
+            "    return Container();",
+            "  }",
+            "}"
+        ],
+        "description": "Create a Stateless widget"
+    },
+    "Stateful Widget": {
+        "prefix": "statefulW",
+        "body": [
+            "class ${1:name} extends StatefulWidget {",
+            "  const ${1:name}({super.key});\n",
+            "  @override",
+            "  State<${1:index}> createState() => _${1:WidgetName}State();",
+            "}\n",
+            "class _${1:index}State extends State<${1:index}> {\n",
+            "@override",
+            "void initState() {",
+            "  super.initState();",
+            "  # Implement some initialization operations here.",
+            "}\n",
+            "  @override",
+            "  Widget build(BuildContext context) {",
+            "    return Container();",
+            "  }",
+            "}"
+        ],
+        "description": "Create a Stateful widget"
+    }
+}

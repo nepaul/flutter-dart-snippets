@@ -1,0 +1,39 @@
+{
+  "name": "flutter-dart-snippets",
+  "displayName": "Flutter and Dart Snippets",
+  "version": "0.1.0",
+  "description": "A collection of commonly used code snippets for Flutter and Dart development.",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/nepaul/flutter-dart-snippets.git"
+  },
+  "keywords": [
+    "Flutter",
+    "Dart",
+    "snippets",
+    "shortcut",
+    "keyboard"
+  ],
+  "publisher": "nepaul",
+  "homepage": "https://github.com/nepaul/flutter-dart-snippets",
+  "engines": {
+    "vscode": "^1.24.0"
+  },
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/nepaul/flutter-dart-snippets/issues"
+  },
+  "homepage": "https://github.com/nepaul/flutter-dart-snippets#readme",
+  "categories": [
+    "Snippets"
+  ],
+  "contributes": {
+    "snippets": [
+      {
+        "language": "dart",
+        "path": "./snippets/dart.json"
+      }
+    ]
+  },
+  "icon": "assets/logo.png"
+}
