@@ -24,7 +24,7 @@
             "@override",
             "void initState() {",
             "  super.initState();",
-            "  # Implement some initialization operations here.",
+            "  // Implement some initialization operations here.",
             "}\n",
             "  @override",
             "  Widget build(BuildContext context) {",
