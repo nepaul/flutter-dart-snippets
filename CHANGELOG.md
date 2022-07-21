@@ -1,4 +1,4 @@
-# 0.2.0 (2022-07-21)
+## 0.2.1 (2022-07-21)
 
 
 ### Bug Fixes
@@ -14,9 +14,3 @@
 
 
 
-# 0.2.0 (2022-07-21)
-
-### Features
-
-* gestureD Create a GestureDetector Widget ([50ed26f](https://github.com/nepaul/flutter-dart-snippets/commit/50ed26f1fdbe01587a5235640c05c0148a504026))
-* statelessW & statelessW ([6de383e](https://github.com/nepaul/flutter-dart-snippets/commit/6de383ef28c7cc78549c2203b9b44d4728b8cd40))
