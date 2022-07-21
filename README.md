@@ -8,3 +8,4 @@
 | -------------- | -------------------------------------------------------------------------------- |
 | `statelessW`   | Create a Stateful  Widget                                                        |
 | `statelessW`   | Create a Stateless Widget |
+| `gestureD`     | Create a GestureDetector Widget |

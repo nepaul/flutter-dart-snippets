@@ -33,5 +33,14 @@
             "}"
         ],
         "description": "Create a Stateful widget"
+    },
+    "GestureDetector Widget": {
+        "prefix": "gestureD",
+        "body": [
+            "GestureDetector(",
+            "  onTap: () {${1}},",
+            "  child: ${2:Widget}",
+            "),"
+        ]
     }
 }
