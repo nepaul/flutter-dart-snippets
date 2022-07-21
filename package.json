@@ -15,7 +15,7 @@
     "keyboard"
   ],
   "publisher": "xsnepaul",
-  "homepage": "https://github.com/nepaul/flutter-dart-snippets",
+  "homepage": "https://github.com/nepaul/flutter-dart-snippets#readme",
   "engines": {
     "vscode": "^1.24.0"
   },
@@ -23,7 +23,6 @@
   "bugs": {
     "url": "https://github.com/nepaul/flutter-dart-snippets/issues"
   },
-  "homepage": "https://github.com/nepaul/flutter-dart-snippets#readme",
   "categories": [
     "Snippets"
   ],
@@ -35,5 +34,11 @@
       }
     ]
   },
-  "icon": "assets/logo.png"
+  "icon": "assets/logo.png",
+  "scripts": {
+    "changelog": "conventional-changelog -p angular -i CHANGELOG.md -s"
+  },
+  "dependencies": {
+    "conventional-changelog-cli": "^2.2.2"
+  }
 }
