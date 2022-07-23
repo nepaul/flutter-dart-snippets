@@ -1,5 +1,5 @@
 {
-    "Stateless Widget": {
+    "Flutter Stateless Widget": {
         "prefix": "statelessW",
         "body": [
             "class ${1:name} extends StatelessWidget {",
@@ -10,9 +10,9 @@
             "  }",
             "}"
         ],
-        "description": "Create a Stateless widget"
+        "description": "Create a Flutter Stateless widget"
     },
-    "Stateful Widget": {
+    "Flutter Stateful Widget": {
         "prefix": "statefulW",
         "body": [
             "class ${1:name} extends StatefulWidget {",
@@ -32,9 +32,9 @@
             "  }",
             "}"
         ],
-        "description": "Create a Stateful widget"
+        "description": "Create a Flutter Stateful widget"
     },
-    "GestureDetector Widget": {
+    "Flutter GestureDetector Widget": {
         "prefix": "gestureD",
         "body": [
             "GestureDetector(",
@@ -43,9 +43,9 @@
             "  child: ${2:Widget}",
             "),"
         ],
-        "description": "Create a GestureDetector"
+        "description": "Create a Flutter GestureDetector"
     },
-    "ElevatedButton widget": {
+    "Flutter ElevatedButton widget": {
         "prefix": "ElevatedB",
         "body": [
             "ElevatedButton(",
@@ -55,6 +55,15 @@
             "  ),",
             "),"
         ],
-        "description": "Create an ElevatedButton widget"
+        "description": "Create a Flutter ElevatedButton widget"
     },
+    "Flutter Row widget snippet": {
+        "prefix": "Row",
+        "body": [
+            "Row(",
+            "  children: <Widget>[${0}],",
+            ")"
+        ],
+        "description": "Create a Flutter Row widget snippet"
+    }
 }
