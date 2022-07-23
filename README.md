@@ -6,6 +6,8 @@
 
 | Snippet        | Description                                                                      |
 | -------------- | -------------------------------------------------------------------------------- |
-| `statelessW`   | Create a Stateful  Widget                                                        |
-| `statelessW`   | Create a Stateless Widget |
-| `gestureD`     | Create a GestureDetector Widget |
+| `statelessW`   | Create a FlutterStateful  Widget                                                        |
+| `statelessW`   | Create a Flutter Stateless Widget |
+| `gestureD`     | Create a FlutterGestureDetector Widget |
+| `ElevatedB` | Create a Flutter GestureDetector |
+| `Row` | Create a Flutter Row widget snippet |
