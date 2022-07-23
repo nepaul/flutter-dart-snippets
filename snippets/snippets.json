@@ -38,9 +38,23 @@
         "prefix": "gestureD",
         "body": [
             "GestureDetector(",
+            "  behavior: HitTestBehavior.opaque,",
             "  onTap: () {${1}},",
             "  child: ${2:Widget}",
             "),"
-        ]
-    }
+        ],
+        "description": "Create a GestureDetector"
+    },
+    "ElevatedButton widget": {
+        "prefix": "ElevatedB",
+        "body": [
+            "ElevatedButton(",
+            "  onPressed: () {${1}},",
+            "  child: Text(",
+            "    \"${2:Elevated Button}\",",
+            "  ),",
+            "),"
+        ],
+        "description": "Create an ElevatedButton widget"
+    },
 }
