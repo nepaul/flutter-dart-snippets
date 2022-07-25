@@ -65,5 +65,14 @@
             ")"
         ],
         "description": "Create a Flutter Row widget snippet"
+    },
+    "Flutter Column widget snippet": {
+        "prefix": "Column",
+        "body": [
+            "Column(",
+            "  children: <Widget>[${0}],",
+            ")"
+        ],
+        "description": "Create a Flutter Column widget snippet"
     }
 }
