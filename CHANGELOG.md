@@ -1,3 +1,9 @@
+# 0.5.0 (2022-07-25)
+
+### Features
+
+* Flutter Column widget snippet ([e9ececa](https://github.com/nepaul/flutter-dart-snippets/commit/e9ececa33d9671d0315992ef31c8f1cc02e64ddb))
+
 # 0.4.0 (2022-07-23)
 
 ### Features
