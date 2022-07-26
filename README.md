@@ -12,3 +12,4 @@
 | `ElevatedB` | Create a Flutter GestureDetector |
 | `Row` | Create a Flutter Row widget snippet |
 | `Column` | Create a Flutter Column widget snippet |
+| `Expand` | Create a Flutter Expand widget snippet |

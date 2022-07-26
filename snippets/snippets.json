@@ -74,5 +74,14 @@
             ")"
         ],
         "description": "Create a Flutter Column widget snippet"
+    },
+    "FlutterExpand widget snippet": {
+        "prefix": "Expand",
+        "body": [
+            "Expanded(",
+            "  child: ${1:Widget},${0}",
+            ")"
+        ],
+        "description": "Create a Flutter Expand widget snippet"
     }
 }
