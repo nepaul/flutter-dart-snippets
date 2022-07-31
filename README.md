@@ -6,10 +6,11 @@
 
 | Snippet        | Description                                                                      |
 | -------------- | -------------------------------------------------------------------------------- |
-| `statelessW`   | Create a FlutterStateful  Widget                                                        |
-| `statelessW`   | Create a Flutter Stateless Widget |
-| `gestureD`     | Create a FlutterGestureDetector Widget |
-| `ElevatedB` | Create a Flutter GestureDetector |
-| `Row` | Create a Flutter Row widget snippet |
-| `Column` | Create a Flutter Column widget snippet |
-| `Expand` | Create a Flutter Expand widget snippet |
+| `StatefulWidget`   |  FlutterStateful  Widget                                                        |
+| `StatelessWidget`   |  Flutter Stateless Widget |
+| `Row` |  Flutter Row widget snippet |
+| `Column` |  Flutter Column widget snippet |
+| `Expand` |  Flutter Expand widget snippet |
+| `GestureDetector`     |  FlutterGestureDetector Widget |
+| `OutlinedButton` | Flutter ElevatedButton snippet |
+| `ElevatedButton` | Flutter OutlinedButton snippet |
