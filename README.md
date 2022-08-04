@@ -14,3 +14,7 @@
 | `GestureD`     |  FlutterGestureDetector Widget |
 | `OutlinedB` | Flutter ElevatedButton snippet |
 | `ElevatedB` | Flutter OutlinedButton snippet |
+
+## Thanks
+
+> Inspired by [Flutter Widget Snippets](https://marketplace.visualstudio.com/items?itemName=alexisvt.flutter-snippets) & [Flutter Snippets](https://marketplace.visualstudio.com/items?itemName=MarufHassan.flutter-snippets)
