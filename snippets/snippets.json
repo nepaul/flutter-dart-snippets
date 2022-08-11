@@ -34,17 +34,6 @@
         ],
         "description": "Flutter Stateful widget"
     },
-    "Flutter GestureDetector Widget": {
-        "prefix": "GestureD",
-        "body": [
-            "GestureDetector(",
-            "  behavior: HitTestBehavior.opaque,",
-            "  onTap: () {${1}},",
-            "  child: ${2:Widget}",
-            "),"
-        ],
-        "description": "Flutter GestureDetector"
-    },
     "Flutter Row widget snippet": {
         "prefix": "Row",
         "body": [
@@ -63,7 +52,16 @@
         ],
         "description": "Flutter Column widget snippet"
     },
-    "FlutterExpand widget snippet": {
+    "Flutter Container widget snippet": {
+        "prefix": "Container",
+        "body": [
+            "Container(",
+            "  child: ${1:Widget},${0}",
+            ")"
+        ],
+        "description": "Flutter Container widget snippet"
+    },
+    "Flutter Expand widget snippet": {
         "prefix": "Expand",
         "body": [
             "Expanded(",
@@ -71,6 +69,17 @@
             ")"
         ],
         "description": "Flutter Expand widget snippet"
+    },
+    "Flutter GestureDetector Widget": {
+        "prefix": "GestureD",
+        "body": [
+            "GestureDetector(",
+            "  behavior: HitTestBehavior.opaque,",
+            "  onTap: () {${1}},",
+            "  child: ${2:Widget}",
+            "),"
+        ],
+        "description": "Flutter GestureDetector"
     },
     "Flutter ElevatedButton widget": {
         "prefix": "ElevatedB",

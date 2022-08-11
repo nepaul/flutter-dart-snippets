@@ -10,6 +10,7 @@
 | `StatelessW`   |  Flutter Stateless Widget |
 | `Row` |  Flutter Row widget snippet |
 | `Column` |  Flutter Column widget snippet |
+| `Container` | Flutter Container widget snippet |
 | `Expand` |  Flutter Expand widget snippet |
 | `GestureD`     |  FlutterGestureDetector Widget |
 | `OutlinedB` | Flutter ElevatedButton snippet |
