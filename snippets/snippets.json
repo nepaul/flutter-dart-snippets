@@ -104,5 +104,10 @@
             "),"
         ],
         "description": "Flutter ElevatedButton widget"
+    },
+    "Material Package": {
+        "prefix": "importM",
+        "body": "import 'package:flutter/material.dart';",
+        "description": "Import Flutter material package"
     }
 }

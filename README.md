@@ -16,6 +16,12 @@
 | `OutlinedB` | Flutter ElevatedButton snippet |
 | `ElevatedB` | Flutter OutlinedButton snippet |
 
+### Import Snippets
+
+|Import|Package|Description|
+| ----- | ---- | --------- |
+| `importM` | material Package | Import Material package|
+
 ## Thanks
 
 > Inspired by [Flutter Widget Snippets](https://marketplace.visualstudio.com/items?itemName=alexisvt.flutter-snippets) & [Flutter Snippets](https://marketplace.visualstudio.com/items?itemName=MarufHassan.flutter-snippets)
