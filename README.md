@@ -15,6 +15,7 @@
 | `GestureD`     |  FlutterGestureDetector Widget |
 | `OutlinedB` | Flutter ElevatedButton snippet |
 | `ElevatedB` | Flutter OutlinedButton snippet |
+| `IconB` | Flutter IconButton snippet |
 
 ### Import Snippets
 

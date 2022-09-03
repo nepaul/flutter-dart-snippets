@@ -105,6 +105,16 @@
         ],
         "description": "Flutter ElevatedButton widget"
     },
+    "Flutter IconButton widget": {
+        "prefix": "IconB",
+        "body": [
+            "IconButton(",
+            "  icon: const Icon(Icons.${1}),",
+            "  onPressed: () {${2}},",
+            "),"
+        ],
+        "description": "Flutter IconButton widget"
+    },
     "Material Package": {
         "prefix": "importM",
         "body": "import 'package:flutter/material.dart';",
