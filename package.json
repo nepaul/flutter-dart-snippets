@@ -36,7 +36,8 @@
   },
   "icon": "assets/logo.png",
   "scripts": {
-    "changelog": "conventional-changelog -p angular -i CHANGELOG.md -s"
+    "changelog": "conventional-changelog -p angular -i CHANGELOG.md -s",
+    "publish": "vsce publish"
   },
   "dependencies": {
     "conventional-changelog-cli": "^2.2.2"
