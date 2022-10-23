@@ -11,7 +11,7 @@
 | `Row` |  Flutter Row widget snippet |
 | `Column` |  Flutter Column widget snippet |
 | `Container` | Flutter Container widget snippet |
-| `Expand` |  Flutter Expand widget snippet |
+| `Expanded` |  Flutter Expand widget snippet |
 | `GestureD`     |  FlutterGestureDetector Widget |
 | `OutlinedB` | Flutter ElevatedButton snippet |
 | `ElevatedB` | Flutter OutlinedButton snippet |

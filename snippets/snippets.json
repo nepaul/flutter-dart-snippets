@@ -62,7 +62,7 @@
         "description": "Flutter Container widget snippet"
     },
     "Flutter Expand widget snippet": {
-        "prefix": "Expand",
+        "prefix": "Expanded",
         "body": [
             "Expanded(",
             "  child: ${1:Widget},${0}",
