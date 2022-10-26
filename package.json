@@ -1,7 +1,7 @@
 {
   "name": "flutter-dart-snippets",
   "displayName": "Flutter and Dart Snippets",
-  "version": "0.10.1",
+  "version": "0.11.0",
   "description": "A collection of commonly used code snippets for Flutter and Dart development.",
   "repository": {
     "type": "git",

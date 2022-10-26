@@ -52,6 +52,16 @@
         ],
         "description": "Flutter Column widget snippet"
     },
+    "Flutter Stack widget snippet": {
+        "prefix": "Stack",
+        "body": [
+            "/// [Stack More Detail](https://api.flutter.dev/flutter/widgets/Stack-class.html)",
+            "Stack(",
+            "  children: <Widget>[${0}],",
+            ")"
+        ],
+        "description": "Flutter Stack widget snippet"
+    },
     "Flutter Container widget snippet": {
         "prefix": "Container",
         "body": [

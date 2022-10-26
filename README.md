@@ -7,9 +7,12 @@
 | Snippet        | Description                                                                      |
 | -------------- | -------------------------------------------------------------------------------- |
 | `StatefulW`   |  FlutterStateful  Widget                                                        |
-| `StatelessW`   |  Flutter Stateless Widget |
-| `Row` |  Flutter Row widget snippet |
-| `Column` |  Flutter Column widget snippet |
+| `StatelessW`  |  Flutter Stateless Widget |
+| Layout  Widget   |
+| `Row`         |  Flutter Row widget snippet |
+| `Column`      |  Flutter Column widget snippet |
+| `Stack`       |  Flutter Stack widget snippet |
+| |
 | `Container` | Flutter Container widget snippet |
 | `Expanded` |  Flutter Expand widget snippet |
 | `GestureD`     |  FlutterGestureDetector Widget |
