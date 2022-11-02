@@ -125,6 +125,20 @@
         ],
         "description": "Flutter IconButton widget"
     },
+    "Flutter MouseRegion widget": {
+        "prefix": "MouseR",
+        "body": [
+            "MouseRegion(",
+            "  cursor: SystemMouseCursors.click,",
+            "  child: GestureDetector(",
+            "    behavior: HitTestBehavior.opaque,",
+            "    onTap: () {${1}},",
+            "    child: ${2:Widget}",
+            "  ),",
+            "),"
+        ],
+        "description": "Flutter ElevatedButton widget"
+    },
     "Material Package": {
         "prefix": "importM",
         "body": "import 'package:flutter/material.dart';",

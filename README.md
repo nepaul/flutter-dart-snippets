@@ -15,10 +15,13 @@
 | |
 | `Container` | Flutter Container widget snippet |
 | `Expanded` |  Flutter Expand widget snippet |
+| |
 | `GestureD`     |  FlutterGestureDetector Widget |
 | `OutlinedB` | Flutter ElevatedButton snippet |
 | `ElevatedB` | Flutter OutlinedButton snippet |
 | `IconB` | Flutter IconButton snippet |
+| Desktop & WEB |
+| `MouseRegion` | Flutter MouseRegion snippet |
 
 ### Import Snippets
 
