@@ -21,7 +21,7 @@
 | `ElevatedB` | Flutter OutlinedButton snippet |
 | `IconB` | Flutter IconButton snippet |
 | Desktop & WEB |
-| `MouseRegion` | Flutter MouseRegion snippet |
+| `MouseR` | Flutter MouseRegion snippet |
 
 ### Import Snippets
 
