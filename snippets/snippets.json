@@ -80,6 +80,16 @@
         ],
         "description": "Flutter Expand widget snippet"
     },
+    "Flutter Align widget snippet": {
+        "prefix": "Align",
+        "body": [
+            "Align(",
+            "  alignment: Alignment.${1:topLeft},${0}",
+            "  child: ${2:Widget}",
+            ")"
+        ],
+        "description": "Flutter Align widget snippet"
+    },
     "Flutter GestureDetector Widget": {
         "prefix": "GestureD",
         "body": [

@@ -12,6 +12,7 @@
 | `Row`         |  Flutter Row widget snippet |
 | `Column`      |  Flutter Column widget snippet |
 | `Stack`       |  Flutter Stack widget snippet |
+| `Align`       |  [A widget that aligns its child within itself and optionally sizes itself based on the child's size.](https://api.flutter.dev/flutter/widgets/Align-class.html) |
 | |
 | `Container` | Flutter Container widget snippet |
 | `Expanded` |  Flutter Expand widget snippet |
